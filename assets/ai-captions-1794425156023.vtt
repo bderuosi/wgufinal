@@ -1,0 +1,137 @@
+WEBVTT
+
+0
+00:00:00.289 --> 00:00:01.809
+Welcome to sprint 3,
+
+1
+00:00:01.970 --> 00:00:05.210
+testing and iteration day of our TSA Dragster build.
+
+2
+00:00:05.650 --> 00:00:06.849
+Before we finalize everything,
+
+3
+00:00:06.929 --> 00:00:10.159
+we need to run test number 1 on the incline test ramp.
+
+4
+00:00:10.489 --> 00:00:11.489
+For a competitive car,
+
+5
+00:00:11.600 --> 00:00:14.329
+our target benchmark is rolling smoothly as far as
+
+6
+00:00:14.329 --> 00:00:17.510
+possible while tracking completely straight down the track.
+
+7
+00:00:17.969 --> 00:00:20.059
+Let's release the car and record our baseline data.
+
+8
+00:00:22.450 --> 00:00:24.559
+For our first test and iteration loop,
+
+9
+00:00:24.690 --> 00:00:27.829
+we run the test and record the exact data metric.
+
+10
+00:00:28.090 --> 00:00:29.930
+As the dragster rolls down the ramp,
+
+11
+00:00:30.159 --> 00:00:34.310
+you notice it pulling hard to the right and losing momentum halfway down the track.
+
+12
+00:00:34.650 --> 00:00:37.470
+It only travels for 10 ft when measured on the track.
+
+13
+00:00:37.810 --> 00:00:40.069
+That is far shorter than the expected outcome.
+
+14
+00:00:40.369 --> 00:00:42.970
+The diagonal travel is clearly causing issues.
+
+15
+00:00:44.759 --> 00:00:46.029
+Instead of guessing,
+
+16
+00:00:46.319 --> 00:00:49.540
+step 2 of the loop is diagnosing the root cause.
+
+17
+00:00:50.119 --> 00:00:54.189
+Flipping the car over for a visual inspection reveals two connected flaws.
+
+18
+00:00:54.470 --> 00:00:54.720
+First,
+
+19
+00:00:54.799 --> 00:00:57.200
+you see the rear wheels are installed off center
+
+20
+00:00:57.200 --> 00:00:59.220
+and are making contact with the car body.
+
+21
+00:00:59.720 --> 00:01:00.119
+Second,
+
+22
+00:01:00.400 --> 00:01:04.519
+there are not washers or wheel clips holding the wheels in the proper alignment.
+
+23
+00:01:07.160 --> 00:01:08.959
+Now it is time for step 3,
+
+24
+00:01:09.239 --> 00:01:11.440
+justifying a specific modification
+
+25
+00:01:11.599 --> 00:01:13.019
+in your iteration log.
+
+26
+00:01:13.440 --> 00:01:18.050
+Scroll down to the form right below this video and write a data-driven entry.
+
+27
+00:01:18.440 --> 00:01:18.879
+First,
+
+28
+00:01:19.129 --> 00:01:21.169
+state the exact recorded metrics,
+
+29
+00:01:21.559 --> 00:01:25.339
+then explain what you identified as the root cause for the problem.
+
+30
+00:01:25.879 --> 00:01:26.400
+Finally,
+
+31
+00:01:26.760 --> 00:01:30.199
+specify the exact changes you will make for iteration number 2,
+
+32
+00:01:30.400 --> 00:01:32.459
+such as adjusting the wheels or
+
+33
+00:01:32.680 --> 00:01:34.879
+adding additional hardware to correct the problem.
